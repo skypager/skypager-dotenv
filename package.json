@@ -1,0 +1,26 @@
+{
+  "name": "skypager-dotenv",
+  "version": "1.0.0",
+  "description": "provides a dotenv bash script so dotenv can be used outside of node as well",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "bin": {
+    "dotenv": "./dotenv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skypager/skypager-dotenv.git"
+  },
+  "keywords": [
+    "skypager",
+    "dotenv"
+  ],
+  "author": "Jon Soeder <jon@chicago.com> (https://twitter.com/soederpop)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skypager/skypager-dotenv/issues"
+  },
+  "homepage": "https://github.com/skypager/skypager-dotenv#readme"
+}
